@@ -1,0 +1,11 @@
+{
+  "name": "issue-webstorm-usage",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "repository": "https://github.com/w4zZz4p/issue-webstorm-usage.git",
+  "license": "MIT",
+  "workspaces": [
+    "@apps/*"
+  ]
+}
